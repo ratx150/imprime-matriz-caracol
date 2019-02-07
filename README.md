@@ -1,2 +1,3 @@
 # imprime-matriz-caracol
-imprime una matriz en forma de caracol
+
+Daniel Medina Sanchez - 20152020046
